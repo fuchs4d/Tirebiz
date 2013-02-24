@@ -1,5 +1,6 @@
 ﻿{
-	"serverType":"none",
+	"serverType":"github",
+	"gitEmail":"4dlists@fuchs4d.de",
 	"gitIsPrivateRepository":"false",
-	"gitURL":"https://github.com/"
+	"gitURL":"https://github.com/fuchs4d"
 }
