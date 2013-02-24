@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="Tirebiz" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<extraProperties ____objectunic="true" version="1">
+
+	<model ____objectunic="true"/>
+
+	<classes ____objectunic="true">
+
+		<Content ____objectunic="true" panelColor="#D88CFF">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="51" Y="922"/>
+</panel>
+</Content>
+
+		<Frequency ____objectunic="true" panelColor="#7F7F7F">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="799" Y="28"/>
+</panel>
+</Frequency>
+
+		<Quality ____objectunic="true" panelColor="#CCC1D9">
+
+			<panel ____objectunic="true" isOpen="true" resizedHeight="" pathVisible="true">
+
+				<position ____objectunic="true" X="974" Y="431"/>
+</panel>
+</Quality>
+
+		<RangeGroup ____objectunic="true" panelColor="#4FA997">
+
+			<panel ____objectunic="true" isOpen="false" pathVisible="true" resizedHeight="112">
+
+				<position ____objectunic="true" X="24" Y="911"/>
+</panel>
+</RangeGroup>
+
+		<Rel_Inquiry_Tire ____objectunic="true" panelColor="#C3D69B">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+				<position ____objectunic="true" X="29" Y="557"/>
+</panel>
+</Rel_Inquiry_Tire>
+
+		<Rel_Quality_Group ____objectunic="true" panelColor="#D7E3BC">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="809" Y="925"/>
+</panel>
+</Rel_Quality_Group>
+
+		<Tire ____objectunic="true" panelColor="#C3D69B">
+
+			<panel ____objectunic="true" isOpen="true" resizedHeight="" pathVisible="true">
+
+				<position ____objectunic="true" X="375" Y="20"/>
+</panel>
+</Tire>
+
+		<TireGroup ____objectunic="true" panelColor="#B8CCE4">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="371" Y="929"/>
+</panel>
+</TireGroup>
+
+		<TireInquiry ____objectunic="true" panelColor="#7F7F7F">
+
+			<panel ____objectunic="true" isOpen="true" resizedHeight="" pathVisible="true">
+
+				<position ____objectunic="true" X="396" Y="417"/>
+</panel>
+</TireInquiry>
+
+		<TireRange ____objectunic="true" panelColor="#BFBFBF">
+
+			<panel ____objectunic="true" isOpen="false" pathVisible="true" resizedHeight="">
+
+				<position ____objectunic="true" X="378" Y="903"/>
+</panel>
+</TireRange>
+
+		<Webuser ____objectunic="true" panelColor="#D7E3BC">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+				<position ____objectunic="true" X="10" Y="33"/>
+</panel>
+</Webuser>
+
+		<Location ____objectunic="true" panelColor="#D8D8D8">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="73" Y="1172"/>
+
+			</panel>
+
+		</Location>
+</classes>
+</extraProperties>
+
+<dataClasses name="Content" className="Content" collectionName="ContentCollection" scope="public" uuid="97BC1D6BC8D8E74CBCF3DF65C87F8D09">
+
+	<extraProperties ____objectunic="true" panelColor="#D88CFF">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="51" Y="922"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="808B6DEC479BB44491637DB03834CFAC" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="187CF86EB72B5641BEC54F3DE4DDDF20" type="string"/>
+
+	<attributes name="Text" kind="storage" scope="public" uuid="A867FD40F1B44541AD7FE3F29A0E1EFF" type="string"/>
+
+	<attributes name="Groupname" kind="storage" scope="public" uuid="9B3194A34EF4384FBC3E967468C3CB33" type="string"/>
+
+	<attributes name="Sortindex" kind="storage" scope="public" uuid="AD5837B1D5945544B2C090AE43F484F9" type="long"/>
+
+</dataClasses>
+
+<dataClasses name="Frequency" className="Frequency" collectionName="FrequencyCollection" scope="public" uuid="7303F9BF2F2B81488C4D5EDCE26D5667">
+
+	<extraProperties ____objectunic="true" panelColor="#7F7F7F">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="799" Y="28"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="949E28C7DB1549479A945F507CF4A371" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="17E2B1869969C24CAE007625407592AE" type="string"/>
+
+	<attributes name="tireCollection" kind="relatedEntities" scope="public" type="TireCollection" reversePath="true" path="Frequency"/>
+
+	<attributes name="Percentage" kind="storage" scope="public" uuid="8394BE43C0F80445A9A7BC81934E1D24" type="number"/>
+
+</dataClasses>
+
+<dataClasses name="Quality" className="Quality" collectionName="QualityCollection" scope="public" uuid="9189492ABFC7EF469EF19216A5DF0156">
+
+	<extraProperties ____objectunic="true" panelColor="#CCC1D9">
+
+		<panel ____objectunic="true" isOpen="true" resizedHeight="" pathVisible="true">
+
+			<position ____objectunic="true" X="974" Y="431"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="BA596D5BE6A95049A27776850D253F5D" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="091AE2A68313DE47A46DE56F5976972E" type="string"/>
+
+	<attributes name="Series_lowest" kind="storage" scope="public" uuid="E280FCABA531394A911F5F28420D895E" type="long"/>
+
+	<attributes name="Series_highest" kind="storage" scope="public" uuid="2ED01896DC7B4C489FBB2AED65A7CCF0" type="long"/>
+
+	<attributes name="Default_Quality" kind="storage" scope="public" uuid="95C566A4B8B3014099FC2B64E808DCF3" type="bool"/>
+
+	<attributes name="Base_Price" kind="storage" scope="public" uuid="F14F8B155D64C644B3C31E930FEE6A73" type="number"/>
+
+	<attributes name="Minimum_Percentage" kind="storage" scope="public" uuid="087F4BF8A6CC2249BCFF8B8AFAB2DE53" type="number"/>
+
+	<attributes name="Rel_Quality_Group_Collection" kind="relatedEntities" scope="public" type="Rel_Quality_GroupCollection" reversePath="true" path="Quality"/>
+
+	<events kind="onSave" from="guidedModel.Quality.events.onSave"/>
+
+	<events kind="onRemove" from="guidedModel.Quality.events.onRemove"/>
+
+	<methods name="Load_Choice_Arrays" applyTo="dataClass" scope="public" from="guidedModel.Quality.methods.Load_Choice_Arrays"/>
+
+</dataClasses>
+
+<dataClasses name="RangeGroup" className="RangeGroup" collectionName="RangeGroupCollection" scope="public" uuid="CDAA0C56B7D71F45915748F6EE4A8CAD">
+
+	<extraProperties ____objectunic="true" panelColor="#4FA997">
+
+		<panel ____objectunic="true" isOpen="false" pathVisible="true" resizedHeight="112">
+
+			<position ____objectunic="true" X="24" Y="911"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="CC1CA35EC53EA948900B01C12270C353" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="B2418E5E660D65478319302CE0BD2716" type="string"/>
+
+	<attributes name="TireRange" kind="relatedEntities" scope="public" type="TireRangeCollection" reversePath="true" path="rangeGroup"/>
+
+</dataClasses>
+
+<dataClasses name="Rel_Inquiry_Tire" className="Rel_Inquiry_Tire" collectionName="Rel_Inquiry_TireCollection" scope="public" uuid="666932050890754EBD9E5D190C1C9A6B" allowOverrideStamp="true">
+
+	<extraProperties ____objectunic="true" panelColor="#C3D69B">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="288">
+
+			<position ____objectunic="true" X="29" Y="557"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="FF490C0F9680BF418DC5D9F1B8E9EC1C" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="TireInquiry" kind="relatedEntity" scope="public" uuid="1A4676DAF263A848AF8EA082C318AB71" type="TireInquiry" path="TireInquiry"/>
+
+	<attributes name="Tire" kind="relatedEntity" scope="public" uuid="9C0E025827CB1842ADF21CF93DC1F0AA" type="Tire" path="Tire"/>
+
+	<attributes name="Selected" kind="storage" scope="public" uuid="245E89276C230647ACE3C8C3A1A86FC7" type="bool"/>
+
+	<attributes name="Percentage_Frequency" kind="storage" scope="public" uuid="22AEAD8358EF2847B118D5A5D92BF748" type="number"/>
+
+	<attributes name="Percentage_Limit" kind="storage" scope="public" uuid="574A97CEF20E7D4186BFE96418E08302" type="number"/>
+
+	<attributes name="Percentage_Calculation" kind="calculated" scope="public" type="number" scriptKind="javascript">
+
+		<onGet from="guidedModel.Rel_Inquiry_Tire.Percentage_Calculation.onGet"/>
+
+	</attributes>
+
+	<methods name="Built_Collection_TireInquiry" applyTo="dataClass" returnType="Rel_Inquiry_TireCollection" scope="public" from="guidedModel.Rel_Inquiry_Tire.methods.Built_Collection_TireInquiry"/>
+
+	<methods name="TireInquiry_Save_Arrays" applyTo="dataClass" scope="public" from="guidedModel.Rel_Inquiry_Tire.methods.TireInquiry_Save_Arrays"/>
+
+</dataClasses>
+
+<dataClasses name="Rel_Quality_Group" className="Rel_Quality_Group" collectionName="Rel_Quality_GroupCollection" scope="public" uuid="436F2C850BF0F640902D10689E9AED0D">
+
+	<extraProperties ____objectunic="true" panelColor="#D7E3BC">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="809" Y="925"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="0162A5108B29E147A3DE5D08795A9B82" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Quality" kind="relatedEntity" scope="public" uuid="15D0CDB62642954395F1791D7611BD7A" type="Quality" path="Quality"/>
+
+	<attributes name="TireGroup" kind="relatedEntity" scope="public" uuid="7FA6A2812F88174E874DE99CB6045F59" type="TireGroup" path="TireGroup"/>
+
+	<attributes name="Size_List" kind="storage" scope="public" uuid="F1A59C24590B7946A5BCDEBF3CF20D49" type="string"/>
+
+	<methods name="Load_Choice_Arrays_for_Quality" applyTo="dataClass" scope="public" from="guidedModel.Rel_Quality_Group.methods.Load_Choice_Arrays_for_Quality"/>
+
+</dataClasses>
+
+<dataClasses name="Tire" className="Tire" collectionName="TireCollection" scope="public" uuid="3CE208B03EE1B841A058BE8324F595FC">
+
+	<extraProperties ____objectunic="true" panelColor="#C3D69B">
+
+		<panel ____objectunic="true" isOpen="true" resizedHeight="" pathVisible="true">
+
+			<position ____objectunic="true" X="375" Y="20"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="948A2DE2CE839845B1EEDE5934947277" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Width_mm" kind="storage" scope="public" uuid="C96943FA973AC24191C3483A1CB40A01" type="long"/>
+
+	<attributes name="Series" kind="storage" scope="public" uuid="EADBB9A6D8BDFF4CBF975B9CC534B0D3" type="long"/>
+
+	<attributes name="Inch" kind="storage" scope="public" uuid="D38A92C6C9092A458A8D173D7A503603" type="number"/>
+
+	<attributes name="Diameter_mm" kind="storage" scope="public" uuid="16FE285170FA6A4291CDA2D4B9573806" type="number"/>
+
+	<attributes name="Cargo_LT" kind="storage" scope="public" uuid="096B786AB206384B90A5B7B0241AB0DC" type="bool"/>
+
+	<attributes name="Offroad_4x4" kind="storage" scope="public" uuid="3421C1C9F6BE064FBB5F780A038968EA" type="bool"/>
+
+	<attributes name="Frequency" kind="relatedEntity" scope="public" uuid="B8035FFD9AE21644BB7A8CF2CF1FE711" type="Frequency" path="Frequency"/>
+
+	<attributes name="Displaystring" kind="calculated" scope="public" type="string" scriptKind="javascript">
+
+		<onGet from="guidedModel.Tire.Displaystring.onGet"/>
+
+	</attributes>
+
+	<attributes name="rel_Inquiry_TireCollection" kind="relatedEntities" scope="public" type="Rel_Inquiry_TireCollection" reversePath="true" path="Tire"/>
+
+	<attributes name="attribute1" kind="storage" scope="public" uuid="2EAC07B36E54A9418E0BE6BB2040FBC3" type="string"/>
+
+	<events kind="onValidate" from="guidedModel.Tire.events.onValidate"/>
+
+</dataClasses>
+
+<dataClasses name="TireGroup" className="TireGroup" collectionName="TireGroupCollection" scope="public" uuid="B9EAF37820683E4D96CE1A2DEF551791">
+
+	<extraProperties ____objectunic="true" panelColor="#B8CCE4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="371" Y="929"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="8D1D5DF3B09ED142984699769E14B56D" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="D52F8DC003B59140854C07219E186218" type="string"/>
+
+	<attributes name="Size_List" kind="storage" scope="public" uuid="AB0DEF887120CF4C9278F8E211FA9075" type="string"/>
+
+	<attributes name="Rel_Quality_GroupCollection" kind="relatedEntities" scope="public" type="Rel_Quality_GroupCollection" reversePath="true" path="TireGroup"/>
+
+	<events kind="onSave" from="guidedModel.TireGroup.events.onSave"/>
+
+	<events kind="onRemove" from="guidedModel.TireGroup.events.onRemove"/>
+
+</dataClasses>
+
+<dataClasses name="TireInquiry" className="TireInquiry" collectionName="TireInquiryCollection" scope="public" uuid="D4B4FF93A3314F47B00C124D23D64D11">
+
+	<extraProperties ____objectunic="true" panelColor="#7F7F7F">
+
+		<panel ____objectunic="true" isOpen="true" resizedHeight="" pathVisible="true">
+
+			<position ____objectunic="true" X="396" Y="417"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="60644F1274422942A7EE103218FB7A31" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="42C3805B5EC9A6478292184F69A84F3E" not_null="true" type="string">
+
+		<events kind="onValidate" from="guidedModel.TireInquiry.Name.events.onValidate"/>
+
+	</attributes>
+
+	<attributes name="Tire_Quantity" kind="storage" scope="public" uuid="864E97BE3D33D545A724BD457E4104F7" type="long" minValue="100" maxValue="3600" defaultValue="1000"/>
+
+	<attributes name="Webuser" kind="relatedEntity" scope="public" uuid="03FA1B0F779F0A4F82794DBF7103FAB7" type="Webuser" path="Webuser"/>
+
+	<attributes name="Quality" kind="relatedEntity" scope="public" uuid="779865359FE7FF48A220ED3A1D0A3769" type="Quality" path="Quality"/>
+
+	<attributes name="Modified_by_User" kind="storage" scope="public" uuid="1AA6CF8C67E3CE479838273BE7849162" type="bool"/>
+
+	<attributes name="Created_automatically" kind="storage" scope="public" uuid="707E1891DDDC05449CDFD0CD1C8941B1" type="bool"/>
+
+	<attributes name="rel_Inquiry_TireCollection" kind="relatedEntities" scope="public" type="Rel_Inquiry_TireCollection" reversePath="true" path="TireInquiry"/>
+
+	<attributes name="Choosen_Tires_Percentage" kind="calculated" scope="public" type="number" scriptKind="javascript">
+
+		<onGet from="guidedModel.TireInquiry.Choosen_Tires_Percentage.onGet"/>
+
+	</attributes>
+
+	<attributes name="Choosen_Displaystring" kind="calculated" scope="public" type="string" scriptKind="javascript">
+
+		<onGet from="guidedModel.TireInquiry.Choosen_Displaystring.onGet"/>
+
+	</attributes>
+
+	<attributes name="Price_Unit_Displaystring" kind="calculated" scope="public" type="string" scriptKind="javascript">
+
+		<onGet from="guidedModel.TireInquiry.Price_Unit_Displaystring.onGet"/>
+
+	</attributes>
+
+	<events kind="onRemove" from="guidedModel.TireInquiry.events.onRemove"/>
+
+	<events kind="onValidate" from="guidedModel.TireInquiry.events.onValidate"/>
+
+	<methods name="Load_Webuser_Related" applyTo="dataClass" scope="public" from="guidedModel.TireInquiry.methods.Load_Webuser_Related"/>
+
+	<methods name="Remove_Entity_ID" applyTo="dataClass" scope="public" from="guidedModel.TireInquiry.methods.Remove_Entity_ID"/>
+
+	<methods name="Webuser_Related_Save" applyTo="dataClass" scope="public" from="guidedModel.TireInquiry.methods.Webuser_Related_Save"/>
+
+</dataClasses>
+
+<dataClasses name="TireRange" className="TireRange" collectionName="TireRangeCollection" scope="public" uuid="415E6E957D1CF9489F375C2ED8E12163">
+
+	<extraProperties ____objectunic="true" panelColor="#BFBFBF">
+
+		<panel ____objectunic="true" isOpen="false" pathVisible="true" resizedHeight="">
+
+			<position ____objectunic="true" X="378" Y="903"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="8D1F94A0CFD88A4EB1DCAAD1586E8019" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="calculated" scope="public" type="string" scriptKind="javascript">
+
+		<onGet from="guidedModel.TireRange.Name.onGet"/>
+
+	</attributes>
+
+	<attributes name="Inch_From" kind="storage" scope="public" uuid="EC792D95DE814D4D970F2097C037DE61" type="number"/>
+
+	<attributes name="Inch_To" kind="storage" scope="public" uuid="5A138EDE0ADCDA41A78D814FEC715ACE" type="number"/>
+
+	<attributes name="Width_From" kind="storage" scope="public" uuid="F3A786DED0522C4DBC6DF823F308E44A" type="number"/>
+
+	<attributes name="Width_To" kind="storage" scope="public" uuid="F51522C2E6DC4043835BA686EA126593" type="number"/>
+
+	<attributes name="Series_From" kind="storage" scope="public" uuid="5EE24D7D13A7534C82E21AF6F70E2814" type="number"/>
+
+	<attributes name="Series_To" kind="storage" scope="public" uuid="7F60AE23F9772648A840EE78855AF1AA" type="number"/>
+
+	<attributes name="rangeGroup" kind="relatedEntity" scope="public" uuid="81DE11256452E94EACB99E407E60D1E9" type="RangeGroup" path="RangeGroup"/>
+
+</dataClasses>
+
+<dataClasses name="Webuser" className="Webuser" collectionName="WebuserCollection" scope="public" uuid="43D67F78C63F2447B8D6549EACC983D8">
+
+	<extraProperties ____objectunic="true" panelColor="#D7E3BC">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true" resizedHeight="">
+
+			<position ____objectunic="true" X="10" Y="33"/>
+</panel>
+</extraProperties>
+
+	<attributes name="ID" kind="storage" scope="public" uuid="D2295DB3E9B8624C9DA9D22440C9D2D4" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="Name" kind="storage" scope="public" uuid="FF21090C9B49234B82F931F140DBE9A4" type="string"/>
+
+	<attributes name="Password" kind="storage" scope="public" uuid="5C3712CEB0D9C54B91D555AC54E97FF8" type="string"/>
+
+	<attributes name="Email" kind="storage" scope="public" uuid="7AFD3C150C3F894A8B6EF092A53D0615" type="string"/>
+
+	<attributes name="Temporary_User" kind="storage" scope="public" uuid="AEC83524EA0053449B6D12F651B873F4" type="bool"/>
+
+	<attributes name="Tire_Selection_incl_C_Tires" kind="storage" scope="public" uuid="B14D23042C7CD6469E6F8E8A5DD52F3A" type="bool"/>
+
+	<attributes name="Tire_Selection_incl_OR_Tires" kind="storage" scope="public" uuid="0B8440CA1E51584FA48E9DE203D90AFF" type="bool"/>
+
+	<attributes name="tireInquiry_Collection" kind="relatedEntities" scope="public" type="TireInquiryCollection" reversePath="true" path="Webuser"/>
+
+	<events kind="onInit" from="guidedModel.Webuser.events.onInit"/>
+
+	<methods name="Create_Temp_Webuser" applyTo="dataClass" returnType="Webuser" scope="public" from="guidedModel.Webuser.methods.Create_Temp_Webuser"/>
+
+	<methods name="Get_Webuser_TireInquiry_Coll" applyTo="entity" returnType="TireInquiryCollection" scope="public" from="guidedModel.Webuser.entityMethods.Get_Webuser_TireInquiry_Coll"/>
+
+	<methods name="Login_Name_PW" applyTo="dataClass" returnType="Webuser" scope="public" from="guidedModel.Webuser.methods.Login_Name_PW"/>
+
+	<methods name="Login_Session_Restore_Webuser" applyTo="dataClass" returnType="Webuser" scope="public" from="guidedModel.Webuser.methods.Login_Session_Restore_Webuser"/>
+
+	<methods name="Logout" applyTo="dataClass" scope="public" from="guidedModel.Webuser.methods.Logout"/>
+
+	<methods name="Register_New_Webuser" applyTo="dataClass" returnType="Webuser" scope="public" from="guidedModel.Webuser.methods.Register_New_Webuser"/>
+
+	<methods name="Save_Current_Webuser_ID" applyTo="dataClass" scope="publicOnServer" from="guidedModel.Webuser.methods.Save_Current_Webuser_ID"/>
+
+</dataClasses>
+
+<dataClasses collectionName="LocationCollection" className="Location" uuid="0B8AD84F017EB544AA5FE0C54463FE93">
+
+	<attributes name="ID" kind="storage" type="long" uuid="60AC189D06FF0B4DA6DCBBC5586CE451" autosequence="true" unique="true" primKey="true"/>
+
+	<attributes name="Name" scope="public" uuid="2E82848639B2CA4E8D5C85B4CA9A74C6" type="string" kind="storage"/>
+
+	<attributes name="Address" scope="public" uuid="21A0BA16F328184BB33BD239EC0C4F08" type="string" kind="storage"/>
+
+</dataClasses>
+</EntityModelCatalog>

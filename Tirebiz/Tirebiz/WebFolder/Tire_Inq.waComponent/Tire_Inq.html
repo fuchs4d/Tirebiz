@@ -1,0 +1,92 @@
+<!DOCTYPE html><section class="default">
+    <meta name="generator" content="Wakanda GUIDesigner"/>
+    <meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="Webuser" data-scope="global" data-lib="WAF" data-id="webuser_current_user" data-dataType="string" data-autoLoad="false" content="webuser_current_user"/>
+    <meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="TireInquiry" data-scope="local" data-lib="WAF" data-id="{id}tireInquiry" data-dataType="string" data-autoLoad="false" content="tireInquiry"/>
+    <meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="Quality" data-scope="local" data-lib="WAF" data-id="{id}quality" data-dataType="string" data-autoLoad="false" content="quality"/>
+    <meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="Rel_Inquiry_Tire" data-scope="local" data-lib="WAF" data-id="{id}rel_Inquiry_Tire" data-dataType="string" data-autoLoad="false" content="rel_Inquiry_Tire"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	<div id="{id}richText1" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-left="true" data-autoWidth="true" class="waf-widget waf-richText default inherited  ">Choose your quality and sizes</div>
+		<div id="{id}richText6" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-left="true" data-binding="webuser_current_user.Name" data-autoWidth="true" class="waf-widget waf-richText default inherited  ">[webuser_current_user.Name]</div>
+		
+		<div id="{id}datagrid_TireInq" data-type="dataGrid" data-selection-mode="single" data-lib="WAF" data-label-position="top" data-label="" data-footer-text="item(s)" data-footer-hide="true" data-display-error="true" data-constraint-top="true" data-constraint-left="true" data-column="[{'sourceAttID':'ID','colID':'ID','width':'44','title':'ID'},{'sourceAttID':'Name','colID':'Name','width':'139','title':'Name'},{'sourceAttID':'Quality.Name','colID':'Quality_Name','width':'150','title':'Quality'},{'sourceAttID':'Tire_Quantity','colID':'Tire_Quantity','width':'70','title':'Quantity'},{'sourceAttID':'Choosen_Tires_Percentage','colID':'Choosen_Tires_Percentage','format':'%23%230.0','width':'70','title':'%25%20Choosen','readOnly':'true'},{'sourceAttID':'Price_Unit_Displaystring','colID':'Price_Unit_Displaystring','format':'%23%230.00','width':'110','title':'Unit%20Price','readOnly':'true'}]" data-binding="{id}tireInquiry" class="waf-widget waf-dataGrid default inherited  "></div>
+	<label id="{id}label1" for="{id}quality_combobox" data-valign="middle" data-type="label" data-margin="5" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-label default inherited                                                                                                                            waf-label-combobox ">Quality</label>
+		<div id="{id}quality_combobox" data-type="combobox" data-limit="20" data-lib="WAF" data-label-position="left" data-label="Quality" data-editable="true" data-constraint-top="true" data-constraint-left="true" data-binding-out="component_Main_tireInquiry.Quality" data-binding-options="[Name] " data-binding-key="ID" data-binding="{id}quality" data-autoDispatch="true" class="waf-widget waf-combobox default inherited  "><select><option value="">[Name] </option></select></div>
+				<button id="{id}button_New_TireInq" data-type="button" data-text="New" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+		<button id="{id}button_Remove_TireInq" data-type="button" data-text="Delete" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+		<div id="{id}dataGrid_rel_Inquiry_Tire" data-type="dataGrid" data-selection-mode="multiple" data-readOnly="false" data-lib="WAF" data-label-position="top" data-label="" data-footer-text="item(s)" data-display-error="true" data-constraint-top="true" data-constraint-left="true" data-column="[{'sourceAttID':'Selected','colID':'Selected','width':'18','title':'%B7'},{'sourceAttID':'Tire.Displaystring','colID':'Tire_Displaystring','width':'110','title':'Size','readOnly':'true'},{'sourceAttID':'Tire.Diameter_mm','colID':'Tire_Diameter_mm','width':'83','title':'Diameter%20mm','readOnly':'true'},{'sourceAttID':'Tire.Frequency.Name','colID':'Tire_Frequency_Name','width':'90','title':'Frequency','readOnly':'true'},{'sourceAttID':'Percentage_Frequency','colID':'Percentage_Frequency','format':'%23%230.0','width':'90','title':'%25%20Frequency','readOnly':'true'},{'sourceAttID':'Percentage_Limit','colID':'Percentage_Limit','format':'%23%230.0','width':'90','title':'%25%20Limit'},{'sourceAttID':'Percentage_Calculation','colID':'Percentage_Calculation','format':'%23%230.0','width':'90','title':'%25%20Calculation','readOnly':'true'}]" data-binding="{id}rel_Inquiry_Tire" class="waf-widget waf-dataGrid default inherited  "></div>
+		<button id="{id}button_rel_Inquiry_Tire_Choose_Selection" data-type="button" data-text="Choose selected" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+		<button id="{id}button_rel_Inquiry_Tire_Drop_Selection" data-type="button" data-text="Drop selected" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+		<button id="{id}button_rel_Inquiry_Tire_Choose_All" data-type="button" data-text="Choose all" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+		<button id="{id}button_rel_Inquiry_Tire_Drop_All" data-type="button" data-text="Drop all" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+	<textarea id="{id}tireInquiry_Choosen_Displaystring_ID" data-type="textField" data-password="false" data-multiline="true" data-lib="WAF" data-label-position="left" data-label="" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-top="true" data-constraint-left="true" data-binding="{id}tireInquiry.Choosen_Displaystring" class="waf-widget waf-textField default inherited  "></textarea>
+	</section>

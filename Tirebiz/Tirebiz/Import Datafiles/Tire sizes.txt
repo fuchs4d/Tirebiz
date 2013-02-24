@@ -1,0 +1,408 @@
+  145/80/10 Unpopulär | 0% bis 0.5% 
+  165/70/10 Unpopulär | 0% bis 0.5% 
+  125/80/12 Unpopulär | 0% bis 0.5% 
+  135/80/12 Unpopulär | 0% bis 0.5% 
+  145/70/12 Unpopulär | 0% bis 0.5% 
+  145/80/12 Unpopulär | 0% bis 0.5% 
+  155/70/12 Unpopulär | 0% bis 0.5% 
+  155/80/12 Unpopulär | 0% bis 0.5% 
+  165/60/12 Unpopulär | 0% bis 0.5% 
+  165/70/12 Unpopulär | 0% bis 0.5% 
+  155/80/12 C Unpopulär | 0% bis 0.5% 
+  135/70/13 Unpopulär | 0% bis 0.5% 
+  135/80/13 Unpopulär | 0% bis 0.5% 
+  145/55/13 Unpopulär | 0% bis 0.5% 
+  145/60/13 Unpopulär | 0% bis 0.5% 
+  145/65/13 Unpopulär | 0% bis 0.5% 
+  145/70/13 Unpopulär | 0% bis 0.5% 
+  145/80/13 Wenig populär | 0.5% bis 1.5% 
+  150/80/13 Unpopulär | 0% bis 0.5% 
+  155/60/13 Unpopulär | 0% bis 0.5% 
+  155/65/13 Unpopulär | 0% bis 0.5% 
+  155/70/13 Populär | 1.5% bis 5% 
+  155/80/13 Wenig populär | 0.5% bis 1.5% 
+  165/55/13 Unpopulär | 0% bis 0.5% 
+  165/60/13 Unpopulär | 0% bis 0.5% 
+  165/65/13 Unpopulär | 0% bis 0.5% 
+  165/70/13 Wenig populär | 0.5% bis 1.5% 
+  165/80/13 Unpopulär | 0% bis 0.5% 
+  175/50/13 Unpopulär | 0% bis 0.5% 
+  175/60/13 Unpopulär | 0% bis 0.5% 
+  175/65/13 Unpopulär | 0% bis 0.5% 
+  175/70/13 Populär | 1.5% bis 5% 
+  175/80/13 Wenig populär | 0.5% bis 1.5% 
+  185/55/13 Unpopulär | 0% bis 0.5% 
+  185/60/13 Unpopulär | 0% bis 0.5% 
+  185/70/13 Unpopulär | 0% bis 0.5% 
+  195/45/13 Unpopulär | 0% bis 0.5% 
+  195/55/13 Unpopulär | 0% bis 0.5% 
+  195/60/13 Unpopulär | 0% bis 0.5% 
+  195/70/13 Unpopulär | 0% bis 0.5% 
+  205/60/13 Unpopulär | 0% bis 0.5% 
+  215/60/13 Unpopulär | 0% bis 0.5% 
+  225/50/13 Unpopulär | 0% bis 0.5% 
+  235/60/13 Unpopulär | 0% bis 0.5% 
+  155/70/13 C Wenig populär | 0.5% bis 1.5% 
+  165/70/13 C Unpopulär | 0% bis 0.5% 
+  165/80/13 C Unpopulär | 0% bis 0.5% 
+  135/55/14 Unpopulär | 0% bis 0.5% 
+  135/70/14 Unpopulär | 0% bis 0.5% 
+  135/80/14 Unpopulär | 0% bis 0.5% 
+  145/65/14 Unpopulär | 0% bis 0.5% 
+  145/80/14 Unpopulär | 0% bis 0.5% 
+  155/65/14 Wenig populär | 0.5% bis 1.5% 
+  155/80/14 Unpopulär | 0% bis 0.5% 
+  165/60/14 Wenig populär | 0.5% bis 1.5% 
+  165/65/14 Wenig populär | 0.5% bis 1.5% 
+  165/70/14 Populär | 1.5% bis 5% 
+  165/80/14 Unpopulär | 0% bis 0.5% 
+  175/50/14 Unpopulär | 0% bis 0.5% 
+  175/60/14 Unpopulär | 0% bis 0.5% 
+  175/65/14 Populär | 1.5% bis 5% 
+  175/70/14 Wenig populär | 0.5% bis 1.5% 
+  175/75/14 Unpopulär | 0% bis 0.5% 
+  175/80/14 Unpopulär | 0% bis 0.5% 
+  185/45/14 Unpopulär | 0% bis 0.5% 
+  185/50/14 Unpopulär | 0% bis 0.5% 
+  185/55/14 Wenig populär | 0.5% bis 1.5% 
+  185/60/14 Populär | 1.5% bis 5% 
+  185/65/14 Populär | 1.5% bis 5% 
+  185/70/14 Wenig populär | 0.5% bis 1.5% 
+  185/80/14 Unpopulär | 0% bis 0.5% 
+  195/40/14 Unpopulär | 0% bis 0.5% 
+  195/45/14 Unpopulär | 0% bis 0.5% 
+  195/50/14 Unpopulär | 0% bis 0.5% 
+  195/55/14 Unpopulär | 0% bis 0.5% 
+  195/60/14 Wenig populär | 0.5% bis 1.5% 
+  195/65/14 Unpopulär | 0% bis 0.5% 
+  195/70/14 Unpopulär | 0% bis 0.5% 
+  195/80/14 Unpopulär | 0% bis 0.5% 
+  205/60/14 Unpopulär | 0% bis 0.5% 
+  205/65/14 Unpopulär | 0% bis 0.5% 
+  205/70/14 Unpopulär | 0% bis 0.5% 
+  205/80/14 Unpopulär | 0% bis 0.5% 
+  215/70/14 Unpopulär | 0% bis 0.5% 
+  225/40/14 Unpopulär | 0% bis 0.5% 
+  165/70/14 C Unpopulär | 0% bis 0.5% 
+  165/80/14 C Unpopulär | 0% bis 0.5% 
+  175/60/14 C Unpopulär | 0% bis 0.5% 
+  175/65/14 C Wenig populär | 0.5% bis 1.5% 
+  175/70/14 C Unpopulär | 0% bis 0.5% 
+  175/75/14 C Unpopulär | 0% bis 0.5% 
+  175/80/14 C Unpopulär | 0% bis 0.5% 
+  185/75/14 C Unpopulär | 0% bis 0.5% 
+  185/80/14 C Unpopulär | 0% bis 0.5% 
+  195/75/14 C Unpopulär | 0% bis 0.5% 
+  195/80/14 C Unpopulär | 0% bis 0.5% 
+  205/80/14 C Unpopulär | 0% bis 0.5% 
+  195/75/14 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/70/14 OR(4x4) Unpopulär | 0% bis 0.5% 
+  235/60/14 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/80/14C Unpopulär | 0% bis 0.5% 
+  125/80/15 Unpopulär | 0% bis 0.5% 
+  135/70/15 Unpopulär | 0% bis 0.5% 
+  145/65/15 Unpopulär | 0% bis 0.5% 
+  155/65/15 Unpopulär | 0% bis 0.5% 
+  155/70/15 Unpopulär | 0% bis 0.5% 
+  155/80/15 Unpopulär | 0% bis 0.5% 
+  165/65/15 Unpopulär | 0% bis 0.5% 
+  165/80/15 Unpopulär | 0% bis 0.5% 
+  175/50/15 Unpopulär | 0% bis 0.5% 
+  175/55/15 Unpopulär | 0% bis 0.5% 
+  175/60/15 Unpopulär | 0% bis 0.5% 
+  175/65/15 Unpopulär | 0% bis 0.5% 
+  175/70/15 Unpopulär | 0% bis 0.5% 
+  185/55/15 Wenig populär | 0.5% bis 1.5% 
+  185/60/15 Wenig populär | 0.5% bis 1.5% 
+  185/65/15 Populär | 1.5% bis 5% 
+  185/70/15 Wenig populär | 0.5% bis 1.5% 
+  185/80/15 Unpopulär | 0% bis 0.5% 
+  190/60/15 Unpopulär | 0% bis 0.5% 
+  195/45/15 Unpopulär | 0% bis 0.5% 
+  195/50/15 Populär | 1.5% bis 5% 
+  195/55/15 Wenig populär | 0.5% bis 1.5% 
+  195/60/15 Populär | 1.5% bis 5% 
+  195/65/15 Super populär | Über 10% 
+  195/70/15 Unpopulär | 0% bis 0.5% 
+  195/80/15 Unpopulär | 0% bis 0.5% 
+  205/45/15 Unpopulär | 0% bis 0.5% 
+  205/50/15 Unpopulär | 0% bis 0.5% 
+  205/55/15 Unpopulär | 0% bis 0.5% 
+  205/60/15 Populär | 1.5% bis 5% 
+  205/65/15 Wenig populär | 0.5% bis 1.5% 
+  205/70/15 Unpopulär | 0% bis 0.5% 
+  215/40/15 Unpopulär | 0% bis 0.5% 
+  215/45/15 Unpopulär | 0% bis 0.5% 
+  215/50/15 Unpopulär | 0% bis 0.5% 
+  215/55/15 Unpopulär | 0% bis 0.5% 
+  215/60/15 Unpopulär | 0% bis 0.5% 
+  215/65/15 Unpopulär | 0% bis 0.5% 
+  215/70/15 Unpopulär | 0% bis 0.5% 
+  215/75/15 Unpopulär | 0% bis 0.5% 
+  225/50/15 Unpopulär | 0% bis 0.5% 
+  225/55/15 Unpopulär | 0% bis 0.5% 
+  225/60/15 Unpopulär | 0% bis 0.5% 
+  225/65/15 Unpopulär | 0% bis 0.5% 
+  225/70/15 Unpopulär | 0% bis 0.5% 
+  225/75/15 Unpopulär | 0% bis 0.5% 
+  235/60/15 Unpopulär | 0% bis 0.5% 
+  235/75/15 Unpopulär | 0% bis 0.5% 
+  255/70/15 Unpopulär | 0% bis 0.5% 
+  265/70/15 Unpopulär | 0% bis 0.5% 
+  295/50/15 Unpopulär | 0% bis 0.5% 
+  31/10,5/15 Unpopulär | 0% bis 0.5% 
+  185/60/15 C Unpopulär | 0% bis 0.5% 
+  185/80/15 C Unpopulär | 0% bis 0.5% 
+  195/60/15 C Wenig populär | 0.5% bis 1.5% 
+  195/70/15 C Wenig populär | 0.5% bis 1.5% 
+  195/80/15 C Unpopulär | 0% bis 0.5% 
+  205/55/15 C Unpopulär | 0% bis 0.5% 
+  205/65/15 C Unpopulär | 0% bis 0.5% 
+  205/70/15 C Unpopulär | 0% bis 0.5% 
+  215/65/15 C Unpopulär | 0% bis 0.5% 
+  215/70/15 C Unpopulär | 0% bis 0.5% 
+  215/75/15 C Unpopulär | 0% bis 0.5% 
+  225/70/15 C Unpopulär | 0% bis 0.5% 
+  10/80/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  155/70/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  195/80/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  205/70/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  205/75/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/75/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/80/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/70/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/75/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  235/60/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  235/75/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  245/70/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/60/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/70/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/75/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  265/50/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  265/70/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  265/75/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  275/60/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  30/9,5/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  33/12,5/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  35/12,5/15 OR(4x4) Unpopulär | 0% bis 0.5% 
+  155/80/16 Unpopulär | 0% bis 0.5% 
+  175/55/16 Unpopulär | 0% bis 0.5% 
+  175/75/16 Unpopulär | 0% bis 0.5% 
+  175/80/16 Unpopulär | 0% bis 0.5% 
+  185/50/16 Unpopulär | 0% bis 0.5% 
+  185/55/16 Unpopulär | 0% bis 0.5% 
+  185/60/16 Unpopulär | 0% bis 0.5% 
+  185/75/16 Unpopulär | 0% bis 0.5% 
+  195/40/16 Unpopulär | 0% bis 0.5% 
+  195/45/16 Unpopulär | 0% bis 0.5% 
+  195/50/16 Unpopulär | 0% bis 0.5% 
+  195/55/16 Unpopulär | 0% bis 0.5% 
+  195/60/16 Unpopulär | 0% bis 0.5% 
+  195/65/16 Unpopulär | 0% bis 0.5% 
+  195/75/16 Unpopulär | 0% bis 0.5% 
+  205/45/16 Unpopulär | 0% bis 0.5% 
+  205/50/16 Wenig populär | 0.5% bis 1.5% 
+  205/55/16 Sehr populär | 5% bis 10% 
+  205/60/16 Wenig populär | 0.5% bis 1.5% 
+  205/65/16 Unpopulär | 0% bis 0.5% 
+  205/70/16 Unpopulär | 0% bis 0.5% 
+  205/80/16 Unpopulär | 0% bis 0.5% 
+  215/40/16 Unpopulär | 0% bis 0.5% 
+  215/45/16 Unpopulär | 0% bis 0.5% 
+  215/50/16 Unpopulär | 0% bis 0.5% 
+  215/55/16 Populär | 1.5% bis 5% 
+  215/60/16 Unpopulär | 0% bis 0.5% 
+  215/65/16 Unpopulär | 0% bis 0.5% 
+  215/70/16 Unpopulär | 0% bis 0.5% 
+  215/75/16 Unpopulär | 0% bis 0.5% 
+  225/40/16 Unpopulär | 0% bis 0.5% 
+  225/45/16 Unpopulär | 0% bis 0.5% 
+  225/50/16 Wenig populär | 0.5% bis 1.5% 
+  225/55/16 Wenig populär | 0.5% bis 1.5% 
+  225/60/16 Unpopulär | 0% bis 0.5% 
+  225/65/16 Unpopulär | 0% bis 0.5% 
+  225/70/16 Unpopulär | 0% bis 0.5% 
+  225/75/16 Unpopulär | 0% bis 0.5% 
+  235/60/16 Unpopulär | 0% bis 0.5% 
+  235/65/16 Unpopulär | 0% bis 0.5% 
+  235/70/16 Unpopulär | 0% bis 0.5% 
+  245/45/16 Unpopulär | 0% bis 0.5% 
+  245/55/16 Unpopulär | 0% bis 0.5% 
+  245/60/16 Unpopulär | 0% bis 0.5% 
+  245/70/16 Unpopulär | 0% bis 0.5% 
+  255/65/16 Unpopulär | 0% bis 0.5% 
+  265/70/16 Unpopulär | 0% bis 0.5% 
+  265/75/16 Unpopulär | 0% bis 0.5% 
+  175/75/16 C Unpopulär | 0% bis 0.5% 
+  185/75/16 C Unpopulär | 0% bis 0.5% 
+  195/60/16 C Unpopulär | 0% bis 0.5% 
+  195/65/16 C Unpopulär | 0% bis 0.5% 
+  195/75/16 C Unpopulär | 0% bis 0.5% 
+  195/80/16 C Unpopulär | 0% bis 0.5% 
+  205/55/16 C Unpopulär | 0% bis 0.5% 
+  205/60/16 C Unpopulär | 0% bis 0.5% 
+  205/65/16 C Unpopulär | 0% bis 0.5% 
+  205/75/16 C Unpopulär | 0% bis 0.5% 
+  205/80/16 C Unpopulär | 0% bis 0.5% 
+  215/55/16 C Unpopulär | 0% bis 0.5% 
+  215/60/16 C Unpopulär | 0% bis 0.5% 
+  215/65/16 C Unpopulär | 0% bis 0.5% 
+  215/70/16 C Unpopulär | 0% bis 0.5% 
+  215/75/16 C Unpopulär | 0% bis 0.5% 
+  225/65/16 C Unpopulär | 0% bis 0.5% 
+  225/70/16 C Unpopulär | 0% bis 0.5% 
+  225/75/16 C Unpopulär | 0% bis 0.5% 
+  235/65/16 C Unpopulär | 0% bis 0.5% 
+  245/75/16 C Unpopulär | 0% bis 0.5% 
+  175/80/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  205/80/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/60/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/65/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/70/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  215/80/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/55/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/65/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/70/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/75/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  235/60/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  235/70/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  235/85/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  245/70/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  245/75/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/55/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/65/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/70/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  265/70/16 OR(4x4) Unpopulär | 0% bis 0.5% 
+  195/40/17 Unpopulär | 0% bis 0.5% 
+  205/40/17 Unpopulär | 0% bis 0.5% 
+  205/45/17 Unpopulär | 0% bis 0.5% 
+  205/50/17 Unpopulär | 0% bis 0.5% 
+  205/55/17 Unpopulär | 0% bis 0.5% 
+  205/75/17 Unpopulär | 0% bis 0.5% 
+  215/35/17 Unpopulär | 0% bis 0.5% 
+  215/40/17 Unpopulär | 0% bis 0.5% 
+  215/45/17 Unpopulär | 0% bis 0.5% 
+  215/50/17 Unpopulär | 0% bis 0.5% 
+  215/55/17 Unpopulär | 0% bis 0.5% 
+  215/60/17 Unpopulär | 0% bis 0.5% 
+  215/75/17 Unpopulär | 0% bis 0.5% 
+  225/40/17 Unpopulär | 0% bis 0.5% 
+  225/45/17 Wenig populär | 0.5% bis 1.5% 
+  225/50/17 Unpopulär | 0% bis 0.5% 
+  225/55/17 Unpopulär | 0% bis 0.5% 
+  225/60/17 Unpopulär | 0% bis 0.5% 
+  225/65/17 Unpopulär | 0% bis 0.5% 
+  235/40/17 Unpopulär | 0% bis 0.5% 
+  235/45/17 Unpopulär | 0% bis 0.5% 
+  235/50/17 Unpopulär | 0% bis 0.5% 
+  235/55/17 Unpopulär | 0% bis 0.5% 
+  235/65/17 Unpopulär | 0% bis 0.5% 
+  235/70/17 Unpopulär | 0% bis 0.5% 
+  235/75/17 Unpopulär | 0% bis 0.5% 
+  245/35/17 Unpopulär | 0% bis 0.5% 
+  245/40/17 Unpopulär | 0% bis 0.5% 
+  245/45/17 Unpopulär | 0% bis 0.5% 
+  245/55/17 Unpopulär | 0% bis 0.5% 
+  245/65/17 Unpopulär | 0% bis 0.5% 
+  255/40/17 Unpopulär | 0% bis 0.5% 
+  255/45/17 Unpopulär | 0% bis 0.5% 
+  255/55/17 Unpopulär | 0% bis 0.5% 
+  255/65/17 Unpopulär | 0% bis 0.5% 
+  265/40/17 Unpopulär | 0% bis 0.5% 
+  275/40/17 Unpopulär | 0% bis 0.5% 
+  275/55/17 Unpopulär | 0% bis 0.5% 
+  275/60/17 Unpopulär | 0% bis 0.5% 
+  235/60/17 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/60/17 OR(4x4) Unpopulär | 0% bis 0.5% 
+  265/65/17 OR(4x4) Unpopulär | 0% bis 0.5% 
+  275/55/17 OR(4x4) Unpopulär | 0% bis 0.5% 
+  275/60/17 OR(4x4) Unpopulär | 0% bis 0.5% 
+  205/75/17,5 Unpopulär | 0% bis 0.5% 
+  215/75/17,5  Unpopulär | 0% bis 0.5% 
+  235/75/17,5 Unpopulär | 0% bis 0.5% 
+  205/75/17,5 C Unpopulär | 0% bis 0.5% 
+  215/75/17,5 C Unpopulär | 0% bis 0.5% 
+  225/75/17,5 C Unpopulär | 0% bis 0.5% 
+  245/75/17,5 C Unpopulär | 0% bis 0.5% 
+  250/75/17,5 C Unpopulär | 0% bis 0.5% 
+  8,5/80/17,5 C Unpopulär | 0% bis 0.5% 
+  9,5/80/17,5 C Unpopulär | 0% bis 0.5% 
+  205/55/18 Unpopulär | 0% bis 0.5% 
+  215/35/18 Unpopulär | 0% bis 0.5% 
+  215/45/18 Unpopulär | 0% bis 0.5% 
+  215/55/18 Unpopulär | 0% bis 0.5% 
+  225/35/18 Unpopulär | 0% bis 0.5% 
+  225/40/18 Unpopulär | 0% bis 0.5% 
+  225/45/18 Unpopulär | 0% bis 0.5% 
+  225/60/18 Unpopulär | 0% bis 0.5% 
+  235/40/18 Unpopulär | 0% bis 0.5% 
+  235/45/18 Unpopulär | 0% bis 0.5% 
+  235/50/18 Unpopulär | 0% bis 0.5% 
+  235/55/18 Unpopulär | 0% bis 0.5% 
+  235/60/18 Unpopulär | 0% bis 0.5% 
+  235/65/18 Unpopulär | 0% bis 0.5% 
+  245/35/18 Unpopulär | 0% bis 0.5% 
+  245/40/18 Unpopulär | 0% bis 0.5% 
+  245/45/18 Unpopulär | 0% bis 0.5% 
+  245/50/18 Unpopulär | 0% bis 0.5% 
+  245/60/18 Unpopulär | 0% bis 0.5% 
+  255/35/18 Unpopulär | 0% bis 0.5% 
+  255/40/18 Unpopulär | 0% bis 0.5% 
+  255/45/18 Unpopulär | 0% bis 0.5% 
+  265/35/18 Unpopulär | 0% bis 0.5% 
+  265/40/18 Unpopulär | 0% bis 0.5% 
+  265/75/18 Unpopulär | 0% bis 0.5% 
+  275/35/18 Unpopulär | 0% bis 0.5% 
+  275/40/18 Unpopulär | 0% bis 0.5% 
+  275/45/18 Unpopulär | 0% bis 0.5% 
+  285/30/18 Unpopulär | 0% bis 0.5% 
+  285/55/18 Unpopulär | 0% bis 0.5% 
+  295/30/18 Unpopulär | 0% bis 0.5% 
+  295/35/18 Unpopulär | 0% bis 0.5% 
+  255/55/18 OR(4x4) Unpopulär | 0% bis 0.5% 
+  255/60/18 OR(4x4) Unpopulär | 0% bis 0.5% 
+  265/60/18 OR(4x4) Unpopulär | 0% bis 0.5% 
+  275/60/18 OR(4x4) Unpopulär | 0% bis 0.5% 
+  285/50/18 OR(4x4) Unpopulär | 0% bis 0.5% 
+  285/55/18 OR(4x4) Unpopulär | 0% bis 0.5% 
+  225/35/19 Unpopulär | 0% bis 0.5% 
+  235/35/19 Unpopulär | 0% bis 0.5% 
+  235/45/19 Unpopulär | 0% bis 0.5% 
+  245/35/19 Unpopulär | 0% bis 0.5% 
+  245/40/19 Unpopulär | 0% bis 0.5% 
+  255/30/19 Unpopulär | 0% bis 0.5% 
+  255/35/19 Unpopulär | 0% bis 0.5% 
+  255/40/19 Unpopulär | 0% bis 0.5% 
+  255/50/19 Unpopulär | 0% bis 0.5% 
+  265/30/19 Unpopulär | 0% bis 0.5% 
+  265/35/19 Unpopulär | 0% bis 0.5% 
+  275/30/19 Unpopulär | 0% bis 0.5% 
+  275/35/19 Unpopulär | 0% bis 0.5% 
+  275/40/19 Unpopulär | 0% bis 0.5% 
+  275/45/19 Unpopulär | 0% bis 0.5% 
+  285/30/19 Unpopulär | 0% bis 0.5% 
+  285/45/19 Unpopulär | 0% bis 0.5% 
+  195/45/20 Unpopulär | 0% bis 0.5% 
+  235/40/20 Unpopulär | 0% bis 0.5% 
+  245/35/20 Unpopulär | 0% bis 0.5% 
+  245/40/20 Unpopulär | 0% bis 0.5% 
+  255/30/20 Unpopulär | 0% bis 0.5% 
+  255/35/20 Unpopulär | 0% bis 0.5% 
+  265/45/20 Unpopulär | 0% bis 0.5% 
+  275/35/20 Unpopulär | 0% bis 0.5% 
+  275/40/20 Unpopulär | 0% bis 0.5% 
+  275/45/20 Unpopulär | 0% bis 0.5% 
+  285/30/20 Unpopulär | 0% bis 0.5% 
+  295/25/20 Unpopulär | 0% bis 0.5% 
+  295/45/20 Unpopulär | 0% bis 0.5% 
+  315/35/20 Unpopulär | 0% bis 0.5% 
+  195/35/21 Unpopulär | 0% bis 0.5% 
+  215/35/21 Unpopulär | 0% bis 0.5% 
+  285/30/22 Unpopulär | 0% bis 0.5% 
+  190/65/390 Unpopulär | 0% bis 0.5% 
+  190/65/390 Unpopulär | 0% bis 0.5% 
+  230/55/390 Unpopulär | 0% bis 0.5% 
+  240/45/415 Unpopulär | 0% bis 0.5% 
+  700/16 Unpopulär | 0% bis 0.5% 
+  750/16 Unpopulär | 0% bis 0.5% 
+  825/16 Unpopulär | 0% bis 0.5% 

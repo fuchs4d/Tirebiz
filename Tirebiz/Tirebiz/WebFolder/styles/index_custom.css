@@ -1,0 +1,51 @@
+
+.Tirebiz {
+	color:#FF6600;
+}
+
+#component_Main_textFlow_1 h1 {
+	text-align:center;
+	text-decoration:underline;
+	font-size:250%;
+	margin-bottom:6px;
+}
+
+#component_Main_textFlow_1 h2 {
+	color:#FF6600;
+	font-size:200%;
+	margin-top:9px;
+	margin-bottom:3px;
+}
+
+#component_Main_textFlow_1 h3 {
+	font-size:150%;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+#component_Main_textFlow_1 p {
+	margin-bottom:2px;
+}
+
+#component_Main_textFlow_1 ul {
+	list-style-type:disc;
+	list-style-position:outside;
+	margin-left:30px;  
+	padding:0; 
+	font-size:150%;    
+	font-weight:bold;
+}
+
+#component_Main_textFlow_1 li {
+	list-style-type:disc;
+	list-style-position:outside;
+}
+
+#component_Main_textFlow_1 a{
+	text-decoration:underline;
+	color:#ff6600;
+}
+#component_Main_textFlow_1 a:hover{
+	text-decoration:underline;
+	color:rgb(84,141,41);
+}
